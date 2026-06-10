@@ -41,7 +41,7 @@ export default function Resume() {
                     </p>
 
                     <a
-                        href="https://my-portfolio-website-ebon-phi.vercel.app/Darsika_CV.pdf"
+                        href="/Darsika.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 bg-sky-500 hover:bg-sky-400 text-gray-900 font-bold py-3 px-8 rounded-full transition duration-300"
